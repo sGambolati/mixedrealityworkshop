@@ -9,15 +9,19 @@
 > La idea central del workshop es hacer una app para ambos dispositivos. Que colabore con los esfuerzos que se realizan en atomiclab  con las manos ortopédicas. Como objetivo final el workshop construirá realidad aumentada para las manos ortopédicas, haciéndolas lucir como si fueran las manos de un superheroe (ironman) y puedan disparar a objetos colocados en el ambiente  y hacer efectos de luces y sonido."
 
 ### Speaker Internacional? Alex Kipman?	
+
 ###	Speaker Internacional Chad Carter?
+
 ###	Speaker Internacional Sean Ong?	
+
 ### Speaker Internacional Jesse McCulloch?
 
 [Preguntas a realizar](https://docs.google.com/document/d/1SHc679q_2j4Kq6ZptfM7yvydWnZ6fPva_nQUwkKFRqI/edit?usp=sharing)
 
 <hr>
 
-## Modulo 2	Dev Enviroment Setup
+## Modulo 2	
+### Dev Enviroment Setup
 
 ### Holoworld con VUFORIA	
 
@@ -33,6 +37,9 @@
 
 <hr>
 
+## Almuerzo
+
+<hr>
 
 ### Modulo 4
 ### Spatial Mapping	
