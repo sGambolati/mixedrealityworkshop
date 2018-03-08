@@ -16,6 +16,8 @@
 ###	Speaker Internacional Chad Carter
 ###	Speaker Internacional Sean Ong
 ### Speaker Internacional Jesse McCulloch
+### Speaker Internacional Stephen Hodgson
+
 
 [Preguntas a realizar](https://docs.google.com/document/d/1SHc679q_2j4Kq6ZptfM7yvydWnZ6fPva_nQUwkKFRqI/edit?usp=sharing)
 
