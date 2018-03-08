@@ -1,4 +1,8 @@
 # Mixed Reality Workshop
+##	Presentadores 
+###	Huerta Carlos - MixedRealitySoft @huertacarlos @MixedRealitySoftArg
+### Sebastian Gambolati - Southworks @sggambolati
+
 
 ## Modulo 1
 ### Presentacion Workshop & MR Platform	"Presentar la plataforma"
