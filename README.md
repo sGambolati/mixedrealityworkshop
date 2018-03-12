@@ -1,10 +1,10 @@
 # Mixed Reality Workshop
 ##	Presentadores 
 
-Huerta Carlos - MixedRealitySoft [![@huertacarlos](/images/twittericon.png)](https://twitter.com/huertacarlos)
-[![@MixedRealitySoftArg](/images/twittericon.png)](https://twitter.com/MixedRealitySoftArg)
+Huerta Carlos - MixedRealitySoft [@huertacarlos](https://twitter.com/huertacarlos)
+[@MixedRealitySoftArg](https://twitter.com/MixedRealitySoftArg)
 
-Sebastian Gambolati - Southworks [![@sggambolati](/images/twittericon.png)](https://twitter.com/sggambolati)
+Sebastian Gambolati - Southworks [@sggambolati](https://twitter.com/sggambolati)
 
 > La idea central del workshop es hacer una app para ambos dispositivos. Que colabore con los esfuerzos que se realizan en [AtomiClab](https://atomiclab.org/) con las manos ortopédicas. Como objetivo final el workshop construirá realidad aumentada para las manos ortopédicas, haciéndolas lucir como si fueran las manos de un superheroe (por ejemplo: IronMan) y pueda disparar a enemigos colocados en el ambiente haciendo efectos de luces y sonido.
 
