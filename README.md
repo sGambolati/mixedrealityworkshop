@@ -29,11 +29,22 @@ Sebastian Gambolati - Southworks [@sggambolati](https://twitter.com/sggambolati)
 [Website](http://www.mrseanong.com/) [@sean_ong](https://twitter.com/sean_ong)
 
 ### Speaker Internacional Jesse McCulloch
-_**[TBD breve resumen de quien es]**_
+![jessemcculloch.jpg](/images/jessemcculloch.jpg)
+
+> Experienced Owner with a demonstrated history of working in the computer software industry. Strong entrepreneurship professional skilled in Internet Information Services (IIS), Unity3D, SQL, Team Foundation Server (TFS), and Web Applications. [WebSite](https://experience.practicalvr.com/) [@jbmcculloch](https://twitter.com/jbmcculloch)
 
 ### Speaker Internacional Stephen Hodgson
-_**[TBD breve resumen de quien es]**_
+![stephenhodgson.jpg](/images/stephenhodgson.jpg)
 
+> - A Moderator for the MixedRealityToolkit on GitHub.
+> - I enjoy working in Unity prototyping software & mobile Apps for clients.
+> - INTJ Personality ("The Architect")
+> - Motivated to succeed by creating opportunities, instead of looking for them.
+> - Experienced international traveler with a great appreciation for other cultures.
+
+[Website](https://www.rageagainstthepixel.com/)
+
+<hr>
 [Preguntas a realizar](https://docs.google.com/document/d/1SHc679q_2j4Kq6ZptfM7yvydWnZ6fPva_nQUwkKFRqI/edit?usp=sharing)
 
 <hr>
