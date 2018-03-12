@@ -17,7 +17,10 @@ Sebastian Gambolati - Southworks [![@sggambolati](/images/twittericon.png)](http
 ### Speaker Internacional Alex Kipman (TBC)
 
 ###	Speaker Internacional Chad Carter
-_**[TBD breve resumen de quien es]**_
+![chadcarter.jpg](/images/chadcarter.jpg)
+
+> HoloLens and Unity Consultant, Technologist, Microsoft MVP.
+[WebSite](http://chadcarter.net/) [@MrChadCarter](https://twitter.com/mrchadcarter)
 
 ###	Speaker Internacional Sean Ong
 _**[TBD breve resumen de quien es]**_
