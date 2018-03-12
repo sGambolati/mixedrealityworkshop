@@ -23,7 +23,10 @@ Sebastian Gambolati - Southworks [@sggambolati](https://twitter.com/sggambolati)
 [WebSite](http://chadcarter.net/) [@MrChadCarter](https://twitter.com/mrchadcarter)
 
 ###	Speaker Internacional Sean Ong
-_**[TBD breve resumen de quien es]**_
+![sean_ong.jpg](/images/seanong.jpg)
+
+> HoloLens + Mixed Reality Entrepreneur, Clean Energy Pro, Product Developer, YouTube Celebrity
+[Website](http://www.mrseanong.com/) [@sean_ong](https://twitter.com/sean_ong)
 
 ### Speaker Internacional Jesse McCulloch
 _**[TBD breve resumen de quien es]**_
